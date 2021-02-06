@@ -38,6 +38,8 @@ It contains data about a lot of countries grouped by different features such as 
 # How to interact
 
 - You can take the CSV file and my Jupyter notebook as a first step into the analysis.
+- Libraries used for the project:
+  Pandas, numpy, matplotlib and seaborn
 
 #### Further steps could include:
 
